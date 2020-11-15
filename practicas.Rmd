@@ -1,0 +1,33 @@
+---
+title: "The Data Scientist's Toolbox"
+author: "José Fernando Rodríguez Díaz"
+date: "15/11/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## Comenzamos
+
+### Lo siguiente estará en **negrita** en *italica* ~~tachado~~ y podemos poner un [enlace](https://www.coursera.org/learn/data-scientists-tools/lecture/134kE/r-markdown), importante no dejar espacio entre []()
+
+podemos ver la diferencia entre tamaños
+
+```{r}
+2+2
+9/8
+7
+```
+
+```{r}
+5*5
+```
+### lo siguiente es una lista, importante el doble espacio para sublista:
+
+- python
+- R
+- SQL
+  - MySQL
+  - T-SQL
+  - PL-SQL
